@@ -1,0 +1,28 @@
+.Logo{
+    text-align: center;
+    background-color: black;
+}
+.Empresa{
+    display: flex;
+}
+ul{
+    display: flex;
+    flex-direction: row;
+    gap: 730px;
+}
+h1{
+    color: aliceblue;
+}
+.texto{
+    text-align: center;
+}
+.paragrafo{
+    text-align: center;
+}
+.ultimo{
+    position: relative;
+    top:70px;
+}
+body{
+    background-color: darkgray;
+}
